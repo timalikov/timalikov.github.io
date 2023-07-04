@@ -83,7 +83,7 @@ header img {
 
 .img-responsive {
       max-width: 150px; /* Adjust the size of profile image */
-      height: auto;
+      max-height: 200px;
   }
 
 header .intro-text .name {
