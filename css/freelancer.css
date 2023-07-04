@@ -81,11 +81,6 @@ header img {
   margin: 0 auto 20px;
 }
 
-.img-responsive {
-      max-width: 150px; /* Adjust the size of profile image */
-      max-height: 200px;
-  }
-
 header .intro-text .name {
   display: block;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
